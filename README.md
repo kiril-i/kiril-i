@@ -1,17 +1,17 @@
-# ✍️ Technical Writer | Content Writer | Editor | Proofreader
+# Technical Writer | Content Writer | Editor | Proofreader
 
 Creating clear documentation, engaging content, and user-focused experiences.
 
-## 👋 About Me
+## About Me
 
-* ✍️ **Technical & Content Writing** — 5 years of experience
-* 📋 **Project Management** — 8 years of experience
-* 💻 **Web Development** — 7 years of experience
-* 🚀 **Product Development** — 5 years of experience
+* **Technical & Content Writing** — 5 years of experience
+* **Project Management** — 8 years of experience
+* **Web Development** — 7 years of experience
+* **Product Development** — 5 years of experience
 
 ---
 
-# ✍️ Technical & Content Writing
+# Technical & Content Writing
 
 Experience across a wide range of industries and topics, including:
 
@@ -22,7 +22,7 @@ Experience across a wide range of industries and topics, including:
 * Cybersecurity
 * E-commerce
 
-## 📚 Technical Writing
+## Technical Writing
 
 I can help with:
 
@@ -41,7 +41,7 @@ I can help with:
 * Onboarding Materials
 * Documentation Repository Management (GitHub)
 
-## 📝 Content Writing
+## Content Writing
 
 Content types include:
 
@@ -59,9 +59,9 @@ Content types include:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
-## 📋 Project Management
+## Project Management
 
 * Jira
 * Trello
@@ -69,18 +69,18 @@ Content types include:
 * Notion
 * Miro
 
-## 📄 Office Tools
+## Office Tools
 
 - Microsoft Office (Word, Excel, PowerPoint, Outlook)
 - Google Workspace
 
-## 📊 Analytics & Advertising
+## Analytics & Advertising
 
 - Google Analytics
 - Google Ads
 - Google AdSense
 
-## 🎨 Design Tools
+## Design Tools
 
 * Adobe Photoshop
 * Adobe Illustrator
@@ -89,7 +89,7 @@ Content types include:
 * Affinity Publisher
 * Canva
 
-## 💻 Web Technologies
+## Web Technologies
 
 * HTML
 * CSS
@@ -97,13 +97,13 @@ Content types include:
 * Markdown
 * GitHub
 
-## 📧 Email Marketing
+## Email Marketing
 
 * Mailchimp
 * SendGrid
 * Mailjet
 
-## 📦 E-commerce Platforms
+## E-commerce Platforms
 
 * Shopify
 * WordPress
@@ -111,14 +111,14 @@ Content types include:
 * Etsy
 * Amazon
 
-## 📱 Additional Skills
+## Additional Skills
 
 * Social Media Management
 * Product Upload and Content Management
 
 ---
 
-# 🌐 Translation & Localization
+# Translation & Localization
 
 * English to Bulgarian Translation
 * Website Translation
@@ -136,7 +136,7 @@ Content types include:
 
 ---
 
-# 🚀 Product Development
+# Product Development
 
 **Certified Professional Scrum Product Owner I (PSPO I)**
 
@@ -150,7 +150,7 @@ Content types include:
 * Product Launch Preparation
 * Project Planning and Coordination
 
-### 🔄 Scrum Events
+### Scrum Events
 
 * Daily Scrum
 * Sprint Planning
@@ -159,7 +159,7 @@ Content types include:
 
 ---
 
-# 💻 Web & E-commerce Development
+# Web & E-commerce Development
 
 ## Platforms
 
@@ -202,16 +202,16 @@ Content types include:
 
 ---
 
-# 🤝 Business & Sales
+# Business & Sales
 
 * B2B Sales
-* B2B Account Management
+* Account Management
 * Sales Management
 * Cold Calling
 * Contract Negotiations
 
 ---
 
-## 📫 Open to Collaboration
+## Open to Collaboration
 
 Available for technical writing, content creation, documentation management, localization, product development, and web-related projects.
